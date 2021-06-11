@@ -515,7 +515,7 @@
     <maven-dependency-plugin.version>3.1.2</maven-dependency-plugin.version>
     <maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
     <maven-source-plugin.version>3.2.1</maven-source-plugin.version>
-    <maven-javadoc-plugin.version>3.2.0</maven-javadoc-plugin.version>
+    <maven-javadoc-plugin.version>3.3.0</maven-javadoc-plugin.version>
     <maven-jar-plugin.version>3.2.0</maven-jar-plugin.version>
     <maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
     <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
@@ -523,7 +523,7 @@
     <maven-deploy-plugin.version>3.0.0-M1</maven-deploy-plugin.version>
     <maven-site-plugin.version>3.9.1</maven-site-plugin.version>
     <cargo-maven2-plugin.version>1.8.4</cargo-maven2-plugin.version>
-    <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
+    <maven-gpg-plugin.version>3.0.1</maven-gpg-plugin.version>
     <nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
     <!-- == Dependency Versions == -->
     <!-- == TERASOLUNA == -->
